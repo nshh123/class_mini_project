@@ -1,5 +1,3 @@
-# CLASS-QUIZ-1 (GROUP D)
-
 ## *GROUP MEMBERS*
 - Musoni Nshuti Sam 28857
 - Eliane Muhoza Zawadi 28871
